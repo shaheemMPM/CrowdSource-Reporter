@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CrowdSource Reporter</string>
+    <string name="splash">CrowdSource\nReporter</string>
+    <string name="waterLevel">Water Raise Level (in Meter)</string>
+    <string name="name">Name</string>
+    <string name="number">Mobile No</string>
+    <string name="submit">Submit</string>
+    <string name="success">Your Report has been Successfully\n Submitted. Thank You</string>
+    <string name="poweredby">Powered By</string>
+</resources>
